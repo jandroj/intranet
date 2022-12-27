@@ -18,6 +18,7 @@
     "@angular/core": "^15.0.4",
     "@angular/forms": "^15.0.4",
     "@angular/http": "^7.2.16",
+    "@angular/material": "^15.0.3",
     "@angular/material/dialog": "*",
     "@angular/platform-browser": "^15.0.4",
     "@angular/platform-browser-dynamic": "^15.0.4",
