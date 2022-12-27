@@ -6,7 +6,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'Ejemplo';
+  title = 'INTRANET CONSORCIO MASTER PERU ';
   constructor(private router:Router){}
 
   Listar(){
